@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, ben Merve</h1>
-<h3 align="center">Zonguldak doğumluyum. Eskişehir’de yaşıyorum. Hacettepe ÜniversitesiBilgisayar Programcılığı bölümünü 3.17 ortalama ile tamamladım.Okuduğum bölüm dolayısıyla web tasarımı üzerinde kendimi geliştirmefırsatım oldu. Yaptığım staj ile bunu destekledim. Amacım kendimi webüzerinde geliştirmek olsa da diğer alanlarda da (görüntü işleme,animasyon, photoshop, masaüstü uygulamaları vb.) çalışmalar yaptım.</h3>
+<h3 align="center">Zonguldak doğumluyum. Eskişehir’de yaşıyorum. Hacettepe ÜniversitesiBilgisayar Programcılığı bölümünü 3.17 ortalama ile tamamladım.Okuduğum bölüm dolayısıyla web tasarımı üzerinde kendimi geliştirme fırsatım oldu. Yaptığım staj ile bunu destekledim. Amacım kendimi webüzerinde geliştirmek olsa da diğer alanlarda da (görüntü işleme,animasyon, photoshop, masaüstü uygulamaları vb.) çalışmalar yaptım.</h3>
 
 -**Web yazılımı üzerinde çalışıyorum.**
 
